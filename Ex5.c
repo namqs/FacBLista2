@@ -61,8 +61,7 @@ void main ()
       case 105:
         valor = quant * 2.50;
         printf("Voce pagara: %2.f", valor);
-        break;
     }
 
-
+//o print poderia estar aqui no final, pra facilitar a manutenção do codigo :)
 }
